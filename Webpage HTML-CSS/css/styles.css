@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{ 
+    background-image: url(https://preview.redd.it/0qbyuidptyr51.jpg?width=4096&format=pjpg&auto=webp&s=5dd3d3b42ea3fd4df80d6cfe8c83614f7c6c637e);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-size: 100% 90%;
+    height: 100vh;
+    color: white;
+}
+#main-container header main{
+    margin: 0 auto;
+    width: 1400px;
+
+}
+#main-container header main div{
+    vertical-align: middle;
+    display: inline-block;
+    
+}
+.text{
+    margin-top: 10%;
+    text-align: right;
+    width: 1160px;
+    font-size: 40px;
+
+}
+.img-holberton{
+    text-align: left;
+    width: 100px;
+
+}
+.layout1 #menu ul li a{    
+    color: white;
+    /*text-decoration: underline;*/   
+}
+.layout1  #menu ul li{
+    display: inline-block;
+    padding: 10px;
+    
+}
+.layout1 #menu ul #holberton{
+    margin-right: 30%;
+    margin-left: 10px;
+}
+#menu-ini{
+    background-image: url(https://www.marazzigroup.com/media/filer_public_thumbnails/filer_public/17/8b/178b09c6-0f05-4c15-9e44-6b95ef9d5fd0/marazzi_grande_solid_color_look_slider_2.jpg__1920x700_q75_crop_subsampling-2.jpg);
+    
+}
+
+#motivationi{
+    color: white;
+    background-color: black;
+}
+
+.layout1{
+    width: 1280px;
+    margin: 0px auto;
+}
+.layout{
+    width: 1280px;
+    margin: 130px auto;
+
+}
+.layout div{
+    display: inline-block;
+    vertical-align: middle;
+}
+.layout h3{
+    font-size: 48px;
+    padding: 25px 0;
+}
+.layout p{
+    font-size: 25px;
+    padding: 25px 0;
+}
+.layout-left .txt{
+    text-align: justify;
+    width: 500px;
+}
+.layout-right .txt{
+    text-align: justify;
+    width: 500px;
+}
+.layout-right .image{
+    text-align: center;
+    width: 500px;
+    text-align: left;
+}
+.layout-left .image{
+    margin: 0%;
+    width: 500px;
+    text-align: right;
+}
+button{
+    background: #24d9e6;
+    border: 0;
+    border-radius:  3px;
+    color: white;
+    cursor: pointer;
+    font-size: 24px;
+    padding: 20px 25px;
+    margin: 40px 0;
+}
+footer{
+    color: white;
+    background-color: black;
+    padding: 45px 0;
+    text-align: center;
+}
+
+
+
